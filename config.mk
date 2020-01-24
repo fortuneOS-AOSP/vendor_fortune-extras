@@ -20,6 +20,10 @@ else
     PRODUCT_COPY_FILES += vendor/fortune-extras/bootanimation/bootanimation_1080.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation.zip
 endif
 
+# Charger
+PRODUCT_PACKAGES += \
+    product_charger_res_images
+
 # Fonts
 PRODUCT_COPY_FILES += \
     vendor/fortune-extras/fonts/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Regular.ttf \

@@ -150,6 +150,9 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay
 
 # Overlay
+PRODUCT_PACKAGES += \
+    ImmersiveNavigationOverlay
+
 PRODUCT_PACKAGE_OVERLAYS += vendor/fortune-extras/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/fortune-extras/overlay/common
 

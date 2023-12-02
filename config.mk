@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    CertifiedPropsOverlay \
     FrameworksOverlay \
     SettingsOverlay \
     SystemUIOverlay

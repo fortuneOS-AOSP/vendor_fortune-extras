@@ -47,5 +47,8 @@ PRODUCT_PACKAGES += \
     SettingsOverlay \
     SystemUIOverlay
 
+PRODUCT_COPY_FILES += \
+    vendor/fortune-extras/overlay/partition_order.xml:$(TARGET_COPY_OUT_PRODUCT)/overlay/partition_order.xml
+
 # ThemeIcons
 $(call inherit-product, vendor/google/overlays/ThemeIcons/config.mk)

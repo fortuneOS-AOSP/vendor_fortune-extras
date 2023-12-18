@@ -7,6 +7,10 @@
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
+# Black Theme
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
+
 # Bootanimation
 include vendor/fortune-extras/bootanimation/bootanimation.mk
 

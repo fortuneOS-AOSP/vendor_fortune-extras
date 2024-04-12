@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonts-modification version="1">
+
+    <!-- Accuratist -->
+    <family customizationType="new-named-family" name="accuratist">
+        <font weight="400" style="normal">Accuratist.ttf</font>
+    </family>
+    <alias name="accuratist-light" to="accuratist" weight="300" />
+    <alias name="accuratist-medium" to="accuratist" weight="500" />
+    <alias name="accuratist-semi-bold" to="accuratist" weight="600" />
+    <alias name="accuratist-bold" to="accuratist" weight="700" />
+
+    <!-- ACFilmstrip -->
+    <family customizationType="new-named-family" name="ACFilmstrip">
+        <font weight="300" style="normal">ACFilmstrip.ttf</font>
+    </family>
+
+    <!-- Aclonica -->
+    <family customizationType="new-named-family" name="aclonica">
+        <font weight="300" style="normal">Aclonica.ttf</font>
+    </family>
+    <alias name="aclonica-semi-bold" to="aclonica" weight="600" />
+    <alias name="aclonica-bold" to="aclonica" weight="700" />
+
+    <!-- AlmonteSnow -->
+    <family customizationType="new-named-family" name="AlmonteSnow">
+        <font weight="300" style="normal">AlmonteSnow.ttf</font>
+    </family>
+
+    <!-- AlphaClouds -->
+    <family customizationType="new-named-family" name="AlphaClouds">
+        <font weight="300" style="normal">AlphaClouds.ttf</font>
+    </family>
+
+    <!-- AlphaFlowers -->
+    <family customizationType="new-named-family" name="AlphaFlowers">
+        <font weight="300" style="normal">AlphaFlowers.ttf</font>
+    </family>
+
+    <!-- AlphaWood -->
+    <family customizationType="new-named-family" name="AlphaWood">
+        <font weight="300" style="normal">AlphaWood.ttf</font>
+    </family>
+
+    <!-- Amarante -->
+    <family customizationType="new-named-family" name="amarante">
+        <font weight="300" style="normal">Amarante.ttf</font>
+    </family>
+    <alias name="amarante-semi-bold" to="amarante" weight="600" />
+    <alias name="amarante-bold" to="amarante" weight="700" />
+
+    <!-- Ampad3D2 -->
+    <family customizationType="new-named-family" name="Ampad3D2">
+        <font weight="300" style="normal">Ampad3D2.ttf</font>
+    </family>
+
+    <!-- Bariol -->
+    <family customizationType="new-named-family" name="bariol">
+        <font weight="300" style="normal">Bariol-Regular.ttf</font>
+    </family>
+    <alias name="bariol-semi-bold" to="bariol" weight="600" />
+    <alias name="bariol-bold" to="bariol" weight="700" />
+
+    <!-- BetsyFlanagan -->
+    <family customizationType="new-named-family" name="BetsyFlanagan">
+        <font weight="300" style="normal">BetsyFlanagan.ttf</font>
+    </family>
+
+    <!-- BigCheese -->
+    <family customizationType="new-named-family" name="BigCheese">
+        <font weight="300" style="normal">BigCheese.ttf</font>
+    </family>
+
+    <!-- Brandayolq -->
+    <family customizationType="new-named-family" name="Brandayolq">
+        <font weight="300" style="normal">Brandayolq.ttf</font>
+    </family>
+
+    <!-- BudmoJiggler -->
+    <family customizationType="new-named-family" name="BudmoJiggler">
+        <font weight="300" style="normal">BudmoJiggler.ttf</font>
+    </family>
+
+    <!-- BunnyRabbits -->
+    <family customizationType="new-named-family" name="BunnyRabbits">
+        <font weight="300" style="normal">BunnyRabbits.ttf</font>
+    </family>
+
+    <!-- Cagliostro -->
+    <family customizationType="new-named-family" name="cagliostro">
+        <font weight="300" style="normal">Cagliostro-Regular.ttf</font>
+    </family>
+    <alias name="cagliostro-semi-bold" to="cagliostro" weight="600" />
+    <alias name="cagliostro-bold" to="cagliostro" weight="700" />
+
+    <!-- Cat -->
+    <family customizationType="new-named-family" name="Cat">
+        <font weight="300" style="normal">Cat.ttf</font>
+    </family>
+
+    <!-- CFBadNews -->
+    <family customizationType="new-named-family" name="CFBadNews">
+        <font weight="300" style="normal">CFBadNews.ttf</font>
+    </family>
+
+    <!-- CFOneTwoTrees -->
+    <family customizationType="new-named-family" name="CFOneTwoTrees">
+        <font weight="300" style="normal">CFOneTwoTrees.ttf</font>
+    </family>
+
+    <!-- CookieRun -->
+    <family customizationType="new-named-family" name="cookierun">
+        <font weight="400" style="normal">CookieRun-Regular.otf</font>
+        <font weight="700" style="normal">CookieRun-Bold.otf</font>
+    </family>
+    <alias name="cookierun-bold" to="cookierun" weight="700" />
+
+    <!-- Cocon -->
+    <family customizationType="new-named-family" name="cocon">
+        <font weight="400" style="normal">Cocon.ttf</font>
+    </family>
+    <alias name="cocon-light" to="cocon" weight="300" />
+    <alias name="cocon-medium" to="cocon" weight="500" />
+    <alias name="cocon-semi-bold" to="cocon" weight="600" />
+    <alias name="cocon-bold" to="cocon" weight="700" />
+
+    <!-- Comfortaa -->
+    <family customizationType="new-named-family" name="comfortaa">
+        <font weight="400" style="normal">Comfortaa.ttf</font>
+    </family>
+    <alias name="comfortaa-medium" to="comfortaa" weight="500" />
+    <alias name="comfortaa-semi-bold" to="comfortaa" weight="600" />
+    <alias name="comfortaa-bold" to="comfortaa" weight="700" />
+
+    <!-- Comic Sans -->
+    <family customizationType="new-named-family" name="comicsans">
+        <font weight="400" style="normal">Comic_Sans.ttf</font>
+    </family>
+    <alias name="comicsans-semi-bold" to="comicsans" weight="600" />
+    <alias name="comicsans-bold" to="comicsans" weight="700" />
+
+    <!-- Concentrate -->
+    <family customizationType="new-named-family" name="Concentrate">
+        <font weight="300" style="normal">Concentrate.ttf</font>
+    </family>
+
+    <!-- Coolstory -->
+    <family customizationType="new-named-family" name="coolstory">
+        <font weight="300" style="normal">Coolstory-Regular.ttf</font>
+    </family>
+    <alias name="coolstory-semi-bold" to="coolstory" weight="600" />
+    <alias name="coolstory-bold" to="coolstory" weight="700" />
+
+    <!-- CRACKMAN -->
+    <family customizationType="new-named-family" name="CRACKMAN">
+        <font weight="300" style="normal">CRACKMAN.ttf</font>
+    </family>
+
+    <!-- DiscoMidnight -->
+    <family customizationType="new-named-family" name="DiscoMidnight">
+        <font weight="300" style="normal">DiscoMidnight.ttf</font>
+    </family>
+
+    <!-- EasterBunny -->
+    <family customizationType="new-named-family" name="EasterBunny">
+        <font weight="300" style="normal">EasterBunny.ttf</font>
+    </family>
+
+    <!-- EditPoints -->
+    <family customizationType="new-named-family" name="EditPoints">
+        <font weight="300" style="normal">EditPoints.ttf</font>
+    </family>
+
+    <!-- EditPointsFilled -->
+    <family customizationType="new-named-family" name="EditPointsFilled">
+        <font weight="300" style="normal">EditPointsFilled.ttf</font>
+    </family>
+
+    <!-- ELRIOTT2 -->
+    <family customizationType="new-named-family" name="ELRIOTT2">
+        <font weight="300" style="normal">ELRIOTT2.ttf</font>
+    </family>
+
+    <!-- Exotwo -->
+    <family customizationType="new-named-family" name="exotwo">
+        <font weight="400" style="normal">Exotwo.ttf</font>
+    </family>
+    <alias name="exotwo-medium" to="exotwo" weight="500" />
+    <alias name="exotwo-semi-bold" to="exotwo" weight="600" />
+    <alias name="exotwo-bold" to="exotwo" weight="700" />
+
+    <!-- Fibography -->
+    <family customizationType="new-named-family" name="Fibography">
+        <font weight="300" style="normal">Fibography.ttf</font>
+    </family>
+
+    <!-- Fifa 2018 -->
+    <family customizationType="new-named-family" name="fifa2018">
+        <font weight="400" style="normal">Fifa_2018.ttf</font>
+    </family>
+    <alias name="fifa2018-light" to="fifa2018" weight="300" />
+    <alias name="fifa2018-medium" to="fifa2018" weight="500" />
+    <alias name="fifa2018-semi-bold" to="fifa2018" weight="600" />
+    <alias name="fifa2018-bold" to="fifa2018" weight="700" />
+
+    <!-- Floorlight -->
+    <family customizationType="new-named-family" name="Floorlight">
+        <font weight="300" style="normal">Floorlight.ttf</font>
+    </family>
+
+    <!-- GautsMotelUpperRight -->
+    <family customizationType="new-named-family" name="GautsMotelUpperRight">
+        <font weight="300" style="normal">GautsMotelUpperRight.ttf</font>
+    </family>
+
+    <!-- Google Sans -->
+    <family customizationType="new-named-family" name="google-sans">
+        <font weight="400" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="400"/>
+        </font>
+        <font weight="500" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+        <font weight="600" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="600"/>
+        </font>
+        <font weight="700" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+        <font weight="400" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="400"/>
+        </font>
+        <font weight="500" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+        <font weight="600" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="600"/>
+        </font>
+        <font weight="700" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-medium">
+        <font weight="500" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-clock">
+        <font>GoogleSansClock-Regular.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-bold">
+        <font weight="700" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="18.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-text">
+        <font weight="400" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="400"/>
+        </font>
+        <font weight="500" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+        <font weight="600" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="600"/>
+        </font>
+        <font weight="700" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+        <font weight="400" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="400"/>
+        </font>
+        <font weight="500" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+        <font weight="600" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="600"/>
+        </font>
+        <font weight="700" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-text-medium">
+        <font weight="500" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-text-bold">
+        <font weight="700" style="normal">GoogleSans-Regular.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-text-italic">
+        <font weight="400" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="400"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-text-medium-italic">
+        <font weight="500" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="500"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-text-bold-italic">
+        <font weight="700" style="italic">GoogleSans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0"/>
+            <axis tag="opsz" stylevalue="17.0"/>
+            <axis tag="wght" stylevalue="700"/>
+        </font>
+    </family>
+
+    <!-- GrandHotel -->
+    <family customizationType="new-named-family" name="grandhotel">
+        <font weight="400" style="normal">GrandHotel.ttf</font>
+    </family>
+    <alias name="grandhotel-light" to="grandhotel" weight="300" />
+    <alias name="grandhotel-medium" to="grandhotel" weight="500" />
+    <alias name="grandhotel-semi-bold" to="grandhotel" weight="600" />
+    <alias name="grandhotel-bold" to="grandhotel" weight="700" />
+
+    <!-- Hanged -->
+    <family customizationType="new-named-family" name="Hanged">
+        <font weight="300" style="normal">Hanged.ttf</font>
+    </family>
+
+    <!-- HarmonyOS Sans -->
+    <family customizationType="new-named-family" name="harmonyos-sans">
+        <font weight="100" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="100" />
+        </font>
+        <font weight="300" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="247" />
+        </font>
+        <font weight="400" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="400" />
+        </font>
+        <font weight="500" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="600" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="606" />
+        </font>
+        <font weight="700" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="706" />
+        </font>
+        <font weight="900" style="normal">HarmonyOS-Sans.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="844" />
+        </font>
+        <font weight="100" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="100" />
+        </font>
+        <font weight="300" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="247" />
+        </font>
+        <font weight="400" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="400" />
+        </font>
+        <font weight="500" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="600" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="606" />
+        </font>
+        <font weight="700" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="706" />
+        </font>
+        <font weight="900" style="italic">HarmonyOS-Sans-Italic.ttf
+            <axis tag="GRAD" stylevalue="0" />
+            <axis tag="opsz" stylevalue="18.0" />
+            <axis tag="wght" stylevalue="844" />
+        </font>
+    </family>
+    <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500" />
+
+    <!-- HotSweat -->
+    <family customizationType="new-named-family" name="HotSweat">
+        <font weight="300" style="normal">HotSweat.ttf</font>
+    </family>
+
+    <!-- Karamuruh -->
+    <family customizationType="new-named-family" name="Karamuruh">
+        <font weight="300" style="normal">Karamuruh.ttf</font>
+    </family>
+
+    <!-- KGOnlyHope -->
+    <family customizationType="new-named-family" name="KGOnlyHope">
+        <font weight="300" style="normal">KGOnlyHope.ttf</font>
+    </family>
+
+    <!-- Kingthings -->
+    <family customizationType="new-named-family" name="Kingthings">
+        <font weight="300" style="normal">Kingthings.ttf</font>
+    </family>
+
+    <!-- Lato -->
+    <family customizationType="new-named-family" name="lato">
+        <font weight="400" style="normal">Lato-Regular.ttf</font>
+        <font weight="400" style="italic">Lato-Italic.ttf</font>
+        <font weight="500" style="normal">Lato-Medium.ttf</font>
+        <font weight="500" style="italic">Lato-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Lato-Bold.ttf</font>
+        <font weight="700" style="italic">Lato-BoldItalic.ttf</font>
+    </family>
+    <alias name="lato-light" to="lato" weight="300" />
+    <alias name="lato-regular" to="lato" weight="400" />
+    <alias name="lato-medium" to="lato" weight="500" />
+    <alias name="lato-semi-bold" to="lato" weight="600" />
+    <alias name="lato-bold" to="lato" weight="700" />
+
+    <!-- Linotte -->
+    <family customizationType="new-named-family" name="linotte">
+        <font weight="300" style="normal">Linotte-Light.ttf</font>
+        <font weight="400" style="normal">Linotte-Regular.ttf</font>
+        <font weight="600" style="normal">Linotte-SemiBold.ttf</font>
+        <font weight="700" style="normal">Linotte-Bold.ttf</font>
+    </family>
+    <alias name="linotte-light" to="linotte" weight="300" />
+    <alias name="linotte-regular" to="linotte" weight="400" />
+    <alias name="linotte-medium" to="linotte" weight="500" />
+    <alias name="linotte-semi-bold" to="linotte" weight="600" />
+    <alias name="linotte-bold" to="linotte" weight="700" />
+
+    <!-- LittleBunny -->
+    <family customizationType="new-named-family" name="LittleBunny">
+        <font weight="300" style="normal">LittleBunny.ttf</font>
+    </family>
+
+    <!-- LMSClifford -->
+    <family customizationType="new-named-family" name="LMSClifford">
+        <font weight="300" style="normal">LMSClifford.ttf</font>
+    </family>
+
+    <!-- LowerAtmosphere -->
+    <family customizationType="new-named-family" name="LowerAtmosphere">
+        <font weight="300" style="normal">LowerAtmosphere.ttf</font>
+    </family>
+
+    <!-- MessingLettern -->
+    <family customizationType="new-named-family" name="MessingLettern">
+        <font weight="300" style="normal">MessingLettern.ttf</font>
+    </family>
+
+    <!-- MonbijouxClownpiece -->
+    <family customizationType="new-named-family" name="MonbijouxClownpiece">
+        <font weight="300" style="normal">MonbijouxClownpiece.ttf</font>
+    </family>
+
+    <!-- NeonDisco -->
+    <family customizationType="new-named-family" name="NeonDisco">
+        <font weight="300" style="normal">NeonDisco.ttf</font>
+    </family>
+
+    <!-- NINJAS -->
+    <family customizationType="new-named-family" name="NINJAS">
+        <font weight="300" style="normal">NINJAS.ttf</font>
+    </family>
+
+    <!-- Nokia Pure -->
+    <family customizationType="new-named-family" name="nokiapure">
+        <font weight="400" style="normal">Nokia_Pure.ttf</font>
+    </family>
+    <alias name="nokiapure-light" to="nokiapure" weight="300" />
+    <alias name="nokiapure-medium" to="nokiapure" weight="500" />
+    <alias name="nokiapure-semi-bold" to="nokiapure" weight="600" />
+    <alias name="nokiapure-bold" to="nokiapure" weight="700" />
+
+    <!-- Nothing Fonts -->
+    <family customizationType="new-named-family" name="nothingdot">
+        <font weight="400" style="normal" postScriptName="Ndot-55">NDot55Caps.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="nothingdot57">
+        <font weight="400" style="normal" postScriptName="Ndot-57">NDot57Caps.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="nothingdot57aligned">
+        <font weight="400" style="normal" postScriptName="Ndot-57-Aligned">Ndot-57-Aligned.otf</font>
+    </family>
+    <alias name="ndot" to="NDot55" />
+    <alias name="ndot57" to="NDot57" />
+    <alias name="ndot57-align" to="NDot57-Aligned" /> 
+
+    <!-- NothingDot -->
+    <family customizationType="new-named-family" name="pixelwars">
+        <font weight="400" style="normal" postScriptName="pixelwars">pixelwars.ttf</font>
+    </family>
+    <alias name="pixelwars" to="pixelwars" weight="400" />
+
+    <!-- Nunito -->
+    <family customizationType="new-named-family" name="nunito">
+        <font weight="400" style="normal">Nunito-Regular.ttf</font>
+        <font weight="700" style="normal">Nunito-Bold.ttf</font>
+    </family>
+    <alias name="nunito-light" to="nunito" weight="300" />
+    <alias name="nunito-regular" to="nunito" weight="400" />
+    <alias name="nunito-medium" to="nunito" weight="500" />
+    <alias name="nunito-semi-bold" to="nunito" weight="600" />
+    <alias name="nunito-bold" to="nunito" weight="700" />
+
+    <!-- OnePlusSans -->
+    <family customizationType="new-named-family" name="op-sans">
+       <font weight="100" style="normal">OnePlusSans-Thin.ttf</font>
+       <font weight="100" style="italic">OnePlusSans-ThinItalic.ttf</font>
+       <font weight="300" style="normal">OnePlusSans-Light.ttf</font>
+       <font weight="300" style="italic">OnePlusSans-LightItalic.ttf</font>
+       <font weight="400" style="normal">OnePlusSans-Regular.ttf</font>
+       <font weight="400" style="italic">OnePlusSans-Italic.ttf</font>
+       <font weight="500" style="normal">OnePlusSans-Medium.ttf</font>
+       <font weight="500" style="italic">OnePlusSans-MediumItalic.ttf</font>
+       <font weight="900" style="normal">OnePlusSans-Black.ttf</font>
+       <font weight="900" style="italic">OnePlusSans-BlackItalic.ttf</font>
+       <font weight="700" style="normal">OnePlusSans-Bold.ttf</font>
+       <font weight="700" style="italic">OnePlusSans-BoldItalic.ttf</font>
+    </family>
+    <alias name="op-sans-thin" to="op-sans" weight="100" />
+    <alias name="op-sans-light" to="op-sans" weight="300" />
+    <alias name="op-sans-book" to="op-sans" weight="400" />
+    <alias name="op-sans-regular" to="op-sans" weight="400" />
+    <alias name="op-sans-medium" to="op-sans" weight="500" />
+    <alias name="op-sans-bold" to="op-sans" weight="700" />
+    <alias name="op-sans-black" to="op-sans" weight="900" />
+
+    <!-- Oswald -->
+    <family customizationType="new-named-family" name="oswald">
+        <font weight="300" style="normal">Oswald-Light.ttf</font>
+        <font weight="300" style="italic">Oswald-LightItalic.ttf</font>
+        <font weight="400" style="normal">Oswald-Regular.ttf</font>
+        <font weight="400" style="italic">Oswald-RegularItalic.ttf</font>
+        <font weight="500" style="normal">Oswald-Medium.ttf</font>
+        <font weight="500" style="italic">Oswald-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Oswald-Bold.ttf</font>
+        <font weight="700" style="italic">Oswald-BoldItalic.ttf</font>
+    </family>
+    <alias name="oswald-light" to="oswald" weight="300" />
+    <alias name="oswald-regular" to="oswald" weight="400" />
+    <alias name="oswald-medium" to="oswald" weight="500" />
+    <alias name="oswald-semi-bold" to="oswald" weight="600" />
+    <alias name="oswald-bold" to="oswald" weight="700" />
+
+    <!-- Pinewood -->
+    <family customizationType="new-named-family" name="Pinewood">
+        <font weight="300" style="normal">Pinewood.ttf</font>
+    </family>
+
+    <!-- PlaidEvent -->
+    <family customizationType="new-named-family" name="PlaidEvent">
+        <font weight="300" style="normal">PlaidEvent.ttf</font>
+    </family>
+
+    <!-- PlantsLetters -->
+    <family customizationType="new-named-family" name="PlantsLetters">
+        <font weight="300" style="normal">PlantsLetters.ttf</font>
+    </family>
+
+    <!-- Play -->
+    <family customizationType="new-named-family" name="play">
+        <font weight="400" style="normal">Play-Regular.ttf</font>
+        <font weight="700" style="normal">Play-Bold.ttf</font>
+    </family>
+    <alias name="play-light" to="play" weight="300" />
+    <alias name="play-regular" to="play" weight="400" />
+    <alias name="play-medium" to="play" weight="500" />
+    <alias name="play-semi-bold" to="play" weight="600" />
+    <alias name="play-bold" to="play" weight="700" />
+
+    <!-- Quando -->
+    <family customizationType="new-named-family" name="quando">
+        <font weight="400" style="normal">Quando.ttf</font>
+    </family>
+    <alias name="quando-light" to="quando" weight="300" />
+    <alias name="quando-medium" to="quando" weight="500" />
+    <alias name="quando-semi-bold" to="quando" weight="600" />
+    <alias name="quando-bold" to="quando" weight="700" />
+
+    <!-- QuickSouth -->
+    <family customizationType="new-named-family" name="QuickSouth">
+        <font weight="300" style="normal">QuickSouth.ttf</font>
+    </family>
+
+    <!-- Redressed -->
+    <family customizationType="new-named-family" name="redressed">
+        <font weight="400" style="normal">Redressed.ttf</font>
+    </family>
+    <alias name="redressed-light" to="redressed" weight="300" />
+    <alias name="redressed-medium" to="redressed" weight="500" />
+    <alias name="redressed-semi-bold" to="redressed" weight="600" />
+    <alias name="redressed-bold" to="redressed" weight="700" />
+
+    <!-- ReemKufi -->
+    <family customizationType="new-named-family" name="reemkufi">
+        <font weight="400" style="normal">ReemKufi.ttf</font>
+    </family>
+    <alias name="reemkufi-light" to="reemkufi" weight="300" />
+    <alias name="reemkufi-medium" to="reemkufi" weight="500" />
+    <alias name="reemkufi-semi-bold" to="reemkufi" weight="600" />
+    <alias name="reemkufi-bold" to="reemkufi" weight="700" />
+
+    <!-- REMPONK -->
+    <family customizationType="new-named-family" name="REMPONK">
+        <font weight="300" style="normal">REMPONK.ttf</font>
+    </family>
+
+    <!-- Roboto Condensed -->
+    <family customizationType="new-named-family" name="robotocondensed">
+        <font weight="300" style="normal">RobotoCondensed-Light.ttf</font>
+        <font weight="300" style="italic">RobotoCondensed-LightItalic.ttf</font>
+        <font weight="400" style="normal">RobotoCondensed-Regular.ttf</font>
+        <font weight="400" style="italic">RobotoCondensed-Italic.ttf</font>
+        <font weight="500" style="normal">RobotoCondensed-Medium.ttf</font>
+        <font weight="500" style="italic">RobotoCondensed-MediumItalic.ttf</font>
+        <font weight="700" style="normal">RobotoCondensed-Bold.ttf</font>
+        <font weight="700" style="italic">RobotoCondensed-BoldItalic.ttf</font>
+    </family>
+    <alias name="robotocondensed-light" to="robotocondensed" weight="300" />
+    <alias name="robotocondensed-medium" to="robotocondensed" weight="500" />
+    <alias name="robotocondensed-semi-bold" to="robotocondensed" weight="600" />
+    <alias name="robotocondensed-bold" to="robotocondensed" weight="700" />
+
+    <!-- Romantiques -->
+    <family customizationType="new-named-family" name="Romantiques">
+        <font weight="300" style="normal">Romantiques.ttf</font>
+    </family>
+
+    <!-- Roundheads -->
+    <family customizationType="new-named-family" name="Roundheads">
+        <font weight="300" style="normal">Roundheads.ttf</font>
+    </family>
+
+    <!-- Rubik -->
+    <family customizationType="new-named-family" name="rubik">
+        <font weight="400" style="normal">Rubik-Regular.ttf</font>
+        <font weight="400" style="italic">Rubik-Italic.ttf</font>
+        <font weight="500" style="normal">Rubik-Medium.ttf</font>
+        <font weight="500" style="italic">Rubik-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Rubik-Bold.ttf</font>
+        <font weight="700" style="italic">Rubik-BoldItalic.ttf</font>
+    </family>
+    <alias name="rubik-light" to="rubik" weight="300" />
+    <alias name="rubik-regular" to="rubik" weight="400" />
+    <alias name="rubik-medium" to="rubik" weight="500" />
+    <alias name="rubik-semi-bold" to="rubik" weight="600" />
+    <alias name="rubik-bold" to="rubik" weight="700" />
+
+    <!-- SamsungOne -->
+    <family customizationType="new-named-family" name="samsungone">
+        <font weight="400" style="normal">SamsungOne-400.ttf</font>
+        <font weight="700" style="normal">SamsungOne-700.ttf</font>
+    </family>
+    <alias name="samsungone-semi-bold" to="samsungone" weight="600" />
+    <alias name="samsungone-bold" to="samsungone" weight="700" />
+
+    <!-- ScrapItUp -->
+    <family customizationType="new-named-family" name="ScrapItUp">
+        <font weight="300" style="normal">ScrapItUp.ttf</font>
+    </family>
+
+    <!-- SlateFromOP -->
+    <family customizationType="new-named-family" name="oneplusslate">
+        <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
+        <font weight="400" style="normal">SlateFromOP-Regular.ttf</font>
+    </family>
+    <alias name="oneplusslate-light" to="oneplusslate" weight="300" />
+    <alias name="oneplusslate-regular" to="oneplusslate" weight="400" />
+    <alias name="oneplusslate-medium" to="oneplusslate" weight="500" />
+    <alias name="oneplusslate-semi-bold" to="oneplusslate" weight="600" />
+    <alias name="oneplusslate-bold" to="oneplusslate" weight="700" />
+
+    <!-- SonySketch -->
+    <family customizationType="new-named-family" name="sonysketch">
+        <font weight="300" style="normal">SonySketch.ttf</font>
+    </family>
+    <alias name="sonysketch-semi-bold" to="sonysketch" weight="600" />
+    <alias name="sonysketch-bold" to="sonysketch" weight="700" />
+
+    <!-- SpaceGame -->
+    <family customizationType="new-named-family" name="SpaceGame">
+        <font weight="300" style="normal">SpaceGame.ttf</font>
+    </family>
+
+    <!-- StandardHeader -->
+    <family customizationType="new-named-family" name="StandardHeader">
+        <font weight="300" style="normal">StandardHeader.ttf</font>
+    </family>
+
+    <!-- Storopia -->
+    <family customizationType="new-named-family" name="storopia">
+        <font weight="400" style="normal">Storopia.ttf</font>
+    </family>
+    <alias name="storopia-medium" to="storopia" weight="500" />
+    <alias name="storopia-semi-bold" to="storopia" weight="600" />
+    <alias name="storopia-bold" to="storopia" weight="700" />
+
+    <!-- Sanfrancisco -->
+    <family customizationType="new-named-family" name="sanfrancisco">
+        <font weight="400" style="normal">SanFranciscoDisplayPro.ttf</font>
+    </family>
+    <alias name="sanfrancisco-semi-bold" to="sanfrancisco" weight="600" />
+    <alias name="sanfrancisco-bold" to="sanfrancisco" weight="700" />
+    <alias name="times" to="sanfrancisco" />
+    <alias name="times new roman" to="sanfrancisco" />
+    <alias name="palatino" to="sanfrancisco" />
+    <alias name="georgia" to="sanfrancisco" />
+    <alias name="baskerville" to="sanfrancisco" />
+    <alias name="goudy" to="sanfrancisco" />
+    <alias name="fantasy" to="sanfrancisco" />
+    <alias name="ITC Stone Serif" to="sanfrancisco" />
+
+    <!-- Surfer -->
+    <family customizationType="new-named-family" name="surfer">
+        <font weight="300" style="normal">Surfer.ttf</font>
+    </family>
+    <alias name="surfer-semi-bold" to="surfer" weight="600" />
+    <alias name="surfer-bold" to="surfer" weight="700" />
+
+    <!-- TH3MACHINE -->
+    <family customizationType="new-named-family" name="TH3MACHINE">
+        <font weight="300" style="normal">TH3MACHINE.ttf</font>
+    </family>
+
+    <!-- Ubuntu -->
+    <family customizationType="new-named-family" name="ubuntu">
+        <font weight="400" style="normal">Ubuntu.ttf</font>
+    </family>
+    <alias name="ubuntu-medium" to="ubuntu" weight="500" />
+    <alias name="ubuntu-semi-bold" to="ubuntu" weight="600" />
+    <alias name="ubuntu-bold" to="ubuntu" weight="700" />
+
+    <!-- VTKSDURA3d -->
+    <family customizationType="new-named-family" name="VTKSDURA3d">
+        <font weight="300" style="normal">VTKSDURA3d.ttf</font>
+    </family>
+
+    <!-- ZnikomitNo24 -->
+    <family customizationType="new-named-family" name="ZnikomitNo24">
+        <font weight="300" style="normal">ZnikomitNo24.ttf</font>
+    </family>
+</fonts-modification>

@@ -81,3 +81,61 @@ PRODUCT_PACKAGES += \
 # Overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/fortune-extras/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/fortune-extras/overlay/common
+
+# Signal Icons
+PRODUCT_PACKAGES += \
+    AquariumSignalOverlay \
+    AuroraSignalOverlay \
+    BarsSignalOverlay \
+    ButterflySignalOverlay \
+    CircleSignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    DeepSignalOverlay \
+    DoraSignalOverlay \
+    EqualSignalOverlay \
+    FaintUISignalOverlay \
+    FanSignalOverlay \
+    ForlornSignalOverlay \
+    GradiconSignalOverlay \
+    HuaweiSignalOverlay \
+    InsideSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    NothingDotSignalOverlay \
+    OdinSignalOverlay \
+    PillsSignalOverlay \
+    PlumpySignalOverlay \
+    RelSignalOverlay \
+    RomanSignalOverlay \
+    RoundSignalOverlay \
+    ScrollSignalOverlay \
+    SeaSignalOverlay \
+    SneakySignalOverlay \
+    StackSignalOverlay \
+    StrokeSignalOverlay \
+    WannuiSignalOverlay \
+    WavySignalOverlay \
+    WindowsSignalOverlay \
+    WingSignalOverlay \
+    XperiaSignalOverlay \
+    ZigZagSignalOverlay
+
+# WiFi Icons
+PRODUCT_PACKAGES += \
+    AuroraWiFiOverlay \
+    BarsWiFiOverlay \
+    DoraWiFiOverlay \
+    FaintUIWiFiOverlay \
+    ForlornWiFiOverlay \
+    GradiconWiFiOverlay \
+    InsideWiFiOverlay \
+    NothingDotWiFiOverlay \
+    PlumpyWiFiOverlay \
+    RoundWiFiOverlay \
+    SneakyWiFiOverlay \
+    StrokeWiFiOverlay \
+    WavyWiFiOverlay \
+    WeedWiFiOverlay \
+    XperiaWiFiOverlay \
+    ZigZagWiFiOverlay

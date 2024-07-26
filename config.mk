@@ -155,6 +155,12 @@ PRODUCT_PACKAGES += \
     Lawnchair \
     LawnchairOverlay \
     Lawnicons
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    persist.sys.quickswitch_lawnchair_shipped=1
+else
+PRODUCT_PRODUCT_PROPERTIES += \
+    persist.sys.quickswitch_lawnchair_shipped=0
 endif
 
 # Overlay

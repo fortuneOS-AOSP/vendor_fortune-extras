@@ -1,0 +1,34 @@
+prebuilt_etc {
+    name: "privapp-permissions-app.lawnchair.xml",
+    src: "privapp-permissions-app.lawnchair.xml",
+    product_specific: true,
+    relative_install_path: "permissions",
+}
+
+prebuilt_etc {
+    name: "sysconfig-app.lawnchair.xml",
+    src: "sysconfig-app.lawnchair.xml",
+    product_specific: true,
+    relative_install_path: "sysconfig",
+}
+
+android_app_import {
+    name: "Lawnchair",
+    apk: "Lawnchair.apk",
+    preprocessed: true,
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+    skip_preprocessed_apk_checks: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+    required: [
+        "privapp-permissions-app.lawnchair.xml",
+        "sysconfig-app.lawnchair.xml",
+    ],
+}

@@ -149,6 +149,14 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
 
+# Lawnchair
+ifeq ($(strip $(TARGET_USES_LAWNCHAIR)),true)
+PRODUCT_PACKAGES += \
+    Lawnchair \
+    LawnchairOverlay \
+    Lawnicons
+endif
+
 # Overlay
 PRODUCT_PACKAGES += \
     ImmersiveNavigationOverlay

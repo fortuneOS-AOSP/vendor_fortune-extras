@@ -165,7 +165,8 @@ endif
 
 # Overlay
 PRODUCT_PACKAGES += \
-    ImmersiveNavigationOverlay
+    ImmersiveNavigationOverlay \
+    PixelLauncherIconsOverlay
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/fortune-extras/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/fortune-extras/overlay/common

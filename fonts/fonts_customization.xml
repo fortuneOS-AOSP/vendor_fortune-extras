@@ -111,6 +111,10 @@
     </font>
   </family>
 
+  <family customizationType="new-named-family" name="google-sans-clock">
+    <font>GoogleSansClock-Regular.ttf</font>
+  </family>
+
   <family customizationType="new-named-family" name="google-sans-bold">
     <font weight="700" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
@@ -200,9 +204,5 @@
       <axis tag="opsz" stylevalue="17.0"/>
       <axis tag="wght" stylevalue="700"/>
     </font>
-  </family>
-
-  <family customizationType="new-named-family" name="google-sans-clock">
-    <font>GoogleSansClock-Regular.ttf</font>
   </family>
 </fonts-modification>

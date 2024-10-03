@@ -42,8 +42,10 @@ PRODUCT_COPY_FILES += \
     vendor/fortune-extras/prebuilt/common/etc/sysconfig/pixel_2016_exclusive.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_2016_exclusive.xml
 
 # Overlays
-PRODUCT_PACKAGE_OVERLAYS += \
-    vendor/fortune-extras/overlay/common
+PRODUCT_PACKAGES += \
+    FrameworksOverlay \
+    SettingsOverlay \
+    SystemUIOverlay
 
 # ThemeIcons
 $(call inherit-product, vendor/google/overlays/ThemeIcons/config.mk)

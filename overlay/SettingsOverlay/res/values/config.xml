@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!-- Package name and fully-qualified class name for the wallpaper picker activity. -->
     <string name="config_wallpaper_picker_package" translatable="false">com.google.android.apps.wallpaper</string>
     <string name="config_wallpaper_picker_class" translatable="false">com.google.android.apps.wallpaper.picker.CategoryPickerActivity</string>

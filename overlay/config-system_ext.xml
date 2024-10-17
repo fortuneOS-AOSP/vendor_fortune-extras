@@ -15,5 +15,5 @@
 -->
 
 <config>
-    <overlay package="android.fortune.certifiedprops.overlay" enabled="true" />
+    <overlay package="org.fortune.android.certifiedprops.overlay" enabled="true" />
 </config>

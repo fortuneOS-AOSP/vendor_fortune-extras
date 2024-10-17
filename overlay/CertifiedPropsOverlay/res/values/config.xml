@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2024 FortuneOS
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Build properties from a GMS certified device against current platform SPL level -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+      <!--
+        Each entry must be of the format
+            FIELD:value
+        with the field belonging to android.os.Build or android.os.Build.VERSION class.
+        Example:
+        <item>BRAND:foo</item>
+        <item>DEVICE:bar</item>
+        <item>FINGERPRINT:foo/bar/bar:1.0/lorem/ipsum:dolor/sit-amet</item>
+        <item>VERSION.RELEASE:1.0</item>
+      -->
+      <item>BRAND:google</item>
+      <item>MANUFACTURER:Google</item>
+      <item>MODEL:Pixel 9</item>
+      <item>PRODUCT:tokay_beta</item>
+      <item>DEVICE:tokay</item>
+      <item>FINGERPRINT:google/tokay_beta/tokay:15/AP41.240823.009/12329489:user/release-keys</item>
+    </string-array>
+</resources>
